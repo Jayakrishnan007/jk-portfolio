@@ -109,7 +109,7 @@ export function Contact() {
             color: "rgba(255,255,255,0.2)",
           }}
         >
-          © 2025 Jayakrishnan Krishnakumar · Senior UX/UI Designer
+          © 2025 Jayakrishnan Krishnakumar · Senior UX/UI Designer | Build With Claude
         </p>
       </div>
     </section>
