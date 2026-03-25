@@ -87,10 +87,22 @@ export function Contact() {
               }}
             >
               <Mail size={16} />
-              Email Me
+              jegu.jk@gmail.com
             </a>
 
-          
+            <a
+              href="tel:+918095431919"
+              className="flex items-center gap-3 px-7 py-4 rounded-full transition-all duration-200 hover:scale-105"
+              style={{
+                border: "1px solid rgba(255,255,255,0.15)",
+                color: "rgba(255,255,255,0.8)",
+                fontFamily: "'Inter', sans-serif",
+                background: "rgba(255,255,255,0.04)",
+              }}
+            >
+              <Phone size={16} />
+              +91 80954 31919
+            </a>
           </div>
         </motion.div>
       </div>
